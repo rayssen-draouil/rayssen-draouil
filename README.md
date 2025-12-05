@@ -27,6 +27,7 @@
 ---
 
 ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayssen-draouil)
 
 <div align="center">
 
