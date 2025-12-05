@@ -27,7 +27,8 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayssen-draouil)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayssen-draouil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&token=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)
+
 
 <div align="center">
 
