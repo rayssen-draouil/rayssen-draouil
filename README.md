@@ -5,6 +5,10 @@
 </p>
 
 ---
+### 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rayssen-draouil&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
 
 ### 🚀 About Me
 - 🎓 4th-year Software Engineering student (Web & Internet Technologies)
@@ -29,10 +33,6 @@
   <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rayssen-draouil&layout=compact&theme=tokyonight" />
 </div>
 ---
-### 👀 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rayssen-draouil&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
 
 ### 🔗 Find Me
 - 💼 LinkedIn: [www.linkedin.com/in/rayssen-draouil-22373124b](#)
