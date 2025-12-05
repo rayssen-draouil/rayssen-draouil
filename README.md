@@ -26,19 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayssen-draouil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&token=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)
-
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rayssen-draouil&show_icons=true&theme=tokyonight&rank_icon=github" />
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssen-draouil&layout=compact&theme=tokyonight" />
-
-</div>
----
-
 ### 🔗 Find Me
 - 💼 LinkedIn: [www.linkedin.com/in/rayssen-draouil-22373124b](#)
 - 🌐 Portfolio: Coming soon
