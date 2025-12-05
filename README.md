@@ -29,8 +29,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rayssen-draouil&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rayssen-draouil&layout=compact&theme=tokyonight" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rayssen-draouil&show_icons=true&theme=tokyonight&rank_icon=github" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssen-draouil&layout=compact&theme=tokyonight" />
+
 </div>
 ---
 
