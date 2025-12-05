@@ -25,13 +25,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rayssen-draouil&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssen-draouil&layout=compact&theme=tokyonight" />
-
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rayssen-draouil&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rayssen-draouil&layout=compact&theme=tokyonight" />
 </div>
-
 ---
+### 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rayssen-draouil&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
 
 ### 🔗 Find Me
 - 💼 LinkedIn: [www.linkedin.com/in/rayssen-draouil-22373124b](#)
