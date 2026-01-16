@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Rayssen Draouil</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | Web & Internet Technologies | DevOps Enthusiast</strong>
+  <strong>Software Engineering Student | Web & Internet Technologies | DevOps Enthusiast</strong>
 </p>
 
 ---
