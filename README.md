@@ -28,7 +28,7 @@
 
 ### 🔗 Find Me
 - 💼 LinkedIn: [www.linkedin.com/in/rayssen-draouil-22373124b](#)
-- 🌐 Portfolio: Coming soon
+- 🌐 Portfolio: [https://rayssen-portfolio.netlify.app/]
 
 ---
 
