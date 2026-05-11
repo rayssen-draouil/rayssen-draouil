@@ -13,7 +13,7 @@
 ### 🚀 About Me
 - 🎓 4th-year Software Engineering student (Web & Internet Technologies)
 - 💻 Passionate about full-stack development and building clean, scalable applications
-- ⚙️ Skilled in .NET, C#, Vue.js, Java, Python, Docker, Git, REST APIs
+- ⚙️ Skilled in .NET, React.js, Java, Docker, Git, REST APIs
 - 📚 Always exploring new tools, technologies and best practices
 
 ---
