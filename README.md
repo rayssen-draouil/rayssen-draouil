@@ -49,11 +49,6 @@ I'm also interested in **software architecture, automation, DevOps, and learning
 
 ---
 
-### 📌 Featured
-
-<a href="https://github.com/rayssen-draouil">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayssen-draouil&show_icons=true&hide_border=true&count_private=true" />
-</a>
 
 ---
 
