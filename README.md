@@ -4,12 +4,6 @@
   <strong>Software Engineering Student • Full-Stack Developer • AI Enthusiast</strong>
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=rayssen-draouil">
-    <img src="https://komarev.com/ghpvc/?username=rayssen-draouil&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 A little about me
